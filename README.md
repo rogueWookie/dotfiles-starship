@@ -1,4 +1,4 @@
-# nvim dots
+# starship dots
 
 A collection of startship config files specific to me
 
